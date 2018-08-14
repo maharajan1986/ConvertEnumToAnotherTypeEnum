@@ -1,0 +1,6 @@
+C:\Projects\Sample\EnumConverter\bin\Debug\EnumConverter.exe.config
+C:\Projects\Sample\EnumConverter\bin\Debug\EnumConverter.exe
+C:\Projects\Sample\EnumConverter\bin\Debug\EnumConverter.pdb
+C:\Projects\Sample\EnumConverter\obj\Debug\EnumConverter.csprojResolveAssemblyReference.cache
+C:\Projects\Sample\EnumConverter\obj\Debug\EnumConverter.exe
+C:\Projects\Sample\EnumConverter\obj\Debug\EnumConverter.pdb
